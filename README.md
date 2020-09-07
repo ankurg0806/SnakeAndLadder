@@ -68,27 +68,27 @@ Enter number of ladders: 4<br/>
 20 62<br/>
 32 50<br/>
 52 85<br/>
-Enter no of players: 2
-enter nameAnkur<br/>
-enter nameGaurav<br/>
+Enter no of players: 2<br/>
+enter name Ankur<br/>
+enter name Gaurav<br/>
 Ankur turn, Press enter to roll the dice<br/>
-
+<br/>
 Ankur got2<br/>
 Ankur moved to 2<br/>
 Gaurav turn, Press enter to roll the dice<br/>
-
+<br/>
 Gaurav got5<br/>
 Gaurav moved to 5<br/>
 Ankur turn, Press enter to roll the dice<br/>
-
-Ankur got4
-Ankur moved to 6
-Gaurav turn, Press enter to roll the dice
-
-.
-.
-.
-.
+<br/>
+Ankur got4<br/>
+Ankur moved to 6<br/>
+Gaurav turn, Press enter to roll the dice<br/>
+<br/>
+.<br/>
+.<br/>
+.<br/>
+.<br/>
 
 Ankur got3<br/>
 Ankur moved to 100<br/>
