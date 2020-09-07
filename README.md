@@ -53,7 +53,7 @@ Assumptions you can take apart from those already mentioned in rules
 
 - Snakes and Ladders do not form an infinite loop.
 
-#Sample Output
+# Sample Output<br/>
 ankur@xxxx:~/SnakeAndLadder/src) g++ -std=c++11 -I/home/users/ankur/SnakeAndLadder/ SnakeAndLadderMain.cpp SnakeAndLadderGame.cpp    
 ankur@xxxx:~/SnakeAndLadder/src) ./a.out
 
