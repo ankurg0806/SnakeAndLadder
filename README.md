@@ -57,29 +57,29 @@ Assumptions you can take apart from those already mentioned in rules
 ankur@xxxx:~/SnakeAndLadder/src) g++ -std=c++11 -I/home/users/ankur/SnakeAndLadder/ SnakeAndLadderMain.cpp SnakeAndLadderGame.cpp    
 ankur@xxxx:~/SnakeAndLadder/src) ./a.out
 
-Enter number of snakes: 4
-99 10
-37 15
-68 23
-49 30
+Enter number of snakes: 4<br/>
+99 10<br/>
+37 15<br/>
+68 23<br/>
+49 30<br/>
 
-Enter number of ladders: 4
-12 45
-20 62
-32 50
-52 85
+Enter number of ladders: 4<br/>
+12 45<br/>
+20 62<br/>
+32 50<br/>
+52 85<br/>
 Enter no of players: 2
-enter nameAnkur
-enter nameGaurav
-Ankur turn, Press enter to roll the dice
+enter nameAnkur<br/>
+enter nameGaurav<br/>
+Ankur turn, Press enter to roll the dice<br/>
 
-Ankur got2
-Ankur moved to 2
-Gaurav turn, Press enter to roll the dice
+Ankur got2<br/>
+Ankur moved to 2<br/>
+Gaurav turn, Press enter to roll the dice<br/>
 
-Gaurav got5
-Gaurav moved to 5
-Ankur turn, Press enter to roll the dice
+Gaurav got5<br/>
+Gaurav moved to 5<br/>
+Ankur turn, Press enter to roll the dice<br/>
 
 Ankur got4
 Ankur moved to 6
@@ -90,6 +90,6 @@ Gaurav turn, Press enter to roll the dice
 .
 .
 
-Ankur got3
-Ankur moved to 100
+Ankur got3<br/>
+Ankur moved to 100<br/>
 Ankur wins the game
